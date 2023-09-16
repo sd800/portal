@@ -110,10 +110,11 @@ h5, h6          { font-weight: bolder }
 .content p{
     color: #fff;
     font-family: "Aleo-Regular", arial;
-
     font-size: 18px;
+/*     font-size: 16px; */
     letter-spacing: 1px;
-    line-height: 28px;
+    line-height: 16px;
+/*     line-height: 28px; */
 }
 
 .content p.description{
